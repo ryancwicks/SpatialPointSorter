@@ -1,0 +1,2 @@
+This program finds the highest quality measurement of the BallTrackerRigid Body in a set of files in a directory and outputs the position of the measured point.
+Usage: python GetBallPositionsFromTracker.py <directory to *.csv files>
